@@ -76,3 +76,5 @@ Expected Output: **Positive sentiment** with high confidence score
 ## 📄 License
 
 This project is for educational purposes.
+
+URL: https://imdbreviewsentiment-tzhxfol3q4ajjemveqikso.streamlit.app/
